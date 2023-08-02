@@ -1,0 +1,6 @@
+XPT2046.c:4:9:xpt2046_write_byte	32	static
+XPT2046.c:11:6:xpt2046_init	16	static
+XPT2046.c:25:10:xpt2046_read_ad_value	24	static
+XPT2046.c:43:10:xpt2046_read_average	40	static
+XPT2046.c:68:6:xpt2046_read_xy	16	static
+XPT2046.c:75:6:xpt2046_twice_read_xy	24	static
